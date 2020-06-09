@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DescriptionActivity"
+    android:orientation="vertical"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+
+    <ImageView
+        android:id="@+id/desImageViewId"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/guava"
+        android:scaleType="fitXY"
+
+        />
+
+    <TextView
+        android:id="@+id/desTextViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Guava"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="#85B6BE"
+
+
+        />
+
+
+
+
+
+
+
+</LinearLayout>

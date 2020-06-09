@@ -1,0 +1,346 @@
+<resources>
+    <string name="app_name">ProgressBar</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="new_name">Home</string>
+
+
+    <string name="health_tips">
+        1. Eat a variety of foods
+
+For good health, we need more than 40 different nutrients, and no single food can supply them all. It is not about a single meal, it is about a balanced food choice over time that will make a difference!
+
+A high-fat lunch could be followed by a low-fat dinner.
+After a large meat portion at dinner, perhaps fish should be the next day’s choice?
+
+
+
+        \n\n2. Maintain a healthy body weight
+
+The right weight for each us depends on factors like our gender, height, age, and genes. Being overweight increases the risks of a wide range of diseases, including diabetes, heart diseases, and cancer.
+
+Excess body fat comes from eating more than we need. The extra calories can come from any caloric nutrient - protein, fat, carbohydrate, or alcohol, but fat is the most concentrated source of energy. Physical activity helps us spend the energy, and makes us feel good. The message is reasonably simple: if we are gaining weight, we need to eat less and be more active!
+
+        \n\n3. Enjoy plenty of fruits and vegetables
+
+Fruits and vegetables are among the most important foods for giving us enough vitamins, minerals and fibre. We should try to eat at least 5 servings a day. For example, a glass of fresh fruit juice at breakfast, perhaps an apple and a piece of watermelon as snacks, and a good portion of different vegetables at each meal.
+
+
+
+
+        \n\n4. Base your diet on plenty of foods rich in carbohydrates
+
+About half the calories in our diet should come from foods rich in carbohydrates, such as cereals, rice, pasta, potatoes, and bread. It is a good idea to include at least one of these at every meal. Wholegrain foods, like wholegrain bread, pasta, and cereals, will increase our fibre intake.
+
+    </string>
+
+
+    <string-array name="food_names">
+        <item>Guava</item>
+        <item>Lemon</item>
+        <item>Grape</item>
+        <item>Papaya</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>WaterMelon</item>
+        <item>Avacado</item>
+        <item>Spinach</item>
+        <item>CauliFlower</item>
+        <item>Cabbage</item>
+        <item>Cucumber</item>
+        <item>Tomato</item>
+        <item>Bellpepper</item>
+        <item>Carrot</item>
+        <item>SweetCorn</item>
+        <item>Pumpkin</item>
+        <item>Onion</item>
+        <item>Almond</item>
+        <item>Egg</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Milk</item>
+        <item>Lentil</item>
+
+
+    </string-array>
+
+
+    <string-array name="food_description">
+        <item>
+
+
+          1.Guava is low in calories and fats but carry several vital vitamins, minerals, and antioxidant polyphenolic and flavonoid compounds that play a pivotal role in the prevention of cancers, aging, infections, etc.
+
+\n\n2.The fruit is a very rich source of soluble dietary fiber (5.4 g per 100 g of fruit, about 14% of DRA), which makes it a good bulk laxative. The fiber content helps protect the colon mucosa by decreasing exposure time to toxins as well as binding to cancer-causing chemicals in the colon.
+
+\n\n3.Guava-fruit is an excellent source of antioxidant vitamin-C. 100 g fresh fruit provides 228 mg of this vitamin, more than three times the required DRI (daily-recommended intake). Flesh just underneath its thick outer rind composes exceptionally higher levels of vitamin-C than its inner creamy pulp.
+
+        </item>
+
+
+        <item>
+
+Vitamin C. An essential vitamin and antioxidant, vitamin C is important for immune function and skin health
+\n\n2.Potassium. A diet high in potassium can lower blood pressure levels and have positive effects on heart health.
+\n\n3.Vitamin B6. A group of related vitamins, B6 is involved in converting food into energy.
+\n\n4.Lemons are very rich in vitamin C. In addition, they’re a decent source of potassium and vitamin B6.
+\n\n5.Plant compounds are natural substances found in plants, some of which have powerful health benefits.
+
+        </item>
+
+        <item>
+
+
+
+           1.The nutrients in grapes may help protect against cancer, eye problems, cardiovascular disease, and other health conditions.
+          \n\n2.Resveratrol is a key nutrient in grapes that may offer health benefits.
+\n\n3.Grapes are a good source of fiber, potassium, and a range of vitamins and other minerals.
+\n\n4.Grapes are suitable for people with diabetes, as long as they are accounted for in the diet plan.
+            \n\n5.A diet that is rich in fruits and vegetables has been linked to a reduced risk of various conditions, including heart disease, diabetes, cancer, and obesity.
+        </item>
+
+
+        <item>
+
+
+
+            \n\n1. Lowers cholesterol:\n
+
+Papaya is rich in fibre, Vitamin C and antioxidants which prevent cholesterol build up in your arteries. Too much cholesterol build-up can lead to several heart diseases including heart attack and hypertension.
+
+\n\n2. Helps in weight loss:\n
+
+Those looking to lose weight must include papaya in their diet as it is very low in calories. The fibre content in papaya leaves you feeling full and also clears your bowel movement making your weight loss regime easier.
+
+\n\n3. Boosts your immunity:\n
+
+Your immunity system acts as a shield against various infections that can make you really sick. A single papaya contains more than 200% of your daily requirement of Vitamin C, making it great for your immunity.
+
+
+
+        </item>
+
+        <item>
+
+           \n\n.Oranges are a healthy source of fiber, vitamin C, thiamine, folate, and antioxidants. They have multiple health benefits.\n
+
+            \n\nCalories: 47
+            \n\n Water: 87%
+            \n\n Protein: 0.9 grams
+            \n\nCarbs: 11.8 grams
+            \n\nSugar: 9.4 grams
+            \n\nFiber: 2.4 grams
+             \n\nFat: 0.1 grams
+
+
+        </item>
+        <item>
+
+            \n\nBanana is very good fruit rich in important materials which is essential for health.\n
+            \n\nPotassium: 9% of the RDI
+            \n\nVitamin B6: 33% of the RDI
+           \n\n Vitamin C: 11% of the RDI
+            \n\nMagnesium: 8% of the RDI
+            \n\nCopper: 10% of the RDI
+            \n\nManganese: 14% of the RDI
+           \n\n Net carbs: 24 grams
+           \n\n Fiber: 3.1 grams
+
+
+
+        </item>
+        <item>
+
+          \n\nApple is a good food rich in vitamins.It is essential to add this food on our daily diet.\n
+          \n\nCalories: 95
+          \n\nCarbs: 25 grams
+          \n\nFiber: 4 grams
+          \n\nVitamin C: 14% of the Reference Daily Intake (RDI)Potassium: 6% of the RDI
+          \n\nVitamin K: 5% of the RDI
+
+
+
+        </item>
+        <item>
+
+            \n\nWatermelon is a good food which we should use on our healthy diet.It hss uncountable benefits.\n
+            \n\nCalories: 30
+            \n\nWater: 91%
+            \n\nProtein: 0.6 grams
+            \n\nCarbs: 7.6 grams
+            \n\nSugar: 6.2 grams
+            \n\nFiber: 0.4 grams
+            \n\nFat: 0.2 grams
+
+
+
+        </item>
+        <item>avacado is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>spinach is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>caulifloer is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>cabbage is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>cucumber is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>tomato is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>bellpepper is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>carrot is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>sweetcorn is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>pumpkin is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>onion is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>almond is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>egg is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>meat is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>fish is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>milk is good fruit.it is a source of vitamin c and we love it.</item>
+        <item>lentil is good fruit.it is a source of vitamin c and we love it.</item>
+
+
+    </string-array>
+
+
+    <string-array name="excercise_names">
+        <item>Running</item>
+        <item>PushUp</item>
+        <item>Rope Skipping</item>
+        <item>Cycling</item>
+        <item>Swimming</item>
+        <item>PullUp</item>
+        <item>Stretching</item>
+        <item>Squat</item>
+        <item>Walking</item>
+        <item>Climbing</item>
+        <item>Weight Lifting</item>
+
+
+    </string-array>
+
+
+    <string-array name="excercise_description">
+        <item>
+
+           1.Get the right footwear
+Invest in some good quality running shoes to protect your bones, muscles, joints and tendons during your training. Depending on your weight and the type of shoe, most running shoes should last between 300 and 800 miles.
+
+It’s best to buy your running shoes from a specialist running shop where you can try before you buy, and get expert advice on the right type of shoe for your needs.
+
+\n\n2.Stretch yourself
+Running can cause your muscles to shorten and tighten, increasing the risk of muscle pulls and strains. The best way to prevent these injuries is with regular stretching and flexibility training.
+
+\n\n3.Treat yourself to a sports massage
+Regular sports massages can give a real boost to your training. Try a full leg massage after a race (or once every few months) to help flush away toxins and repair muscle fibres.
+
+\n\n4.Find out more about the benefits of massage for runners.
+
+
+
+
+        </item>
+        <item>
+
+
+          1. Build Strength : Push ups target your chest muscles, shoulders, back of your arms, abdominals and the serratus anterior (the muscles under your armpits), simultaneously. A typical push up requires you to lift 50 to 75 percent of your body weight,7 which will help you build strength8 in your upper body and core.
+
+\n\n2. Protect Your Shoulder Joint — Weak muscles around your shoulder joint leave it vulnerable to injury. Push ups target the shoulder muscles, building strength and helping to protect the area from stress and injury.
+
+\n\n3. Boost Your Metabolism  Bodyweight exercises like pushups work multiple muscle groups at the same time, requiring your heart to work harder and ultimately raising your metabolic rate for increased fat burning and weight loss.
+
+
+
+        </item>
+        <item> rp[e is good exercise.</item>
+        <item> cycleis good exercise.</item>
+        <item> swimis good exercise.</item>
+        <item> pull up is good exercise.</item>
+        <item> sttrctch is good exercise.</item>
+        <item> squat is good exercise.</item>
+        <item> walking is good exercise.</item>
+        <item> climb is good exercise.</item>
+        <item> weigh lift is good exercise.</item>
+
+
+    </string-array>
+
+
+    <string-array name="disease_names">
+        <item>Fever</item>
+        <item>Tuberculosis</item>
+        <item>Dengue</item>
+        <item>Headache</item>
+        <item>Influenza</item>
+        <item>Diabetes</item>
+    </string-array>
+
+
+    <string-array name="disease_description">
+        <item>
+            The following over-the-counter fever-reducing medications may be used at home:
+            \n\n1.Ibuprofen (Motrin, Advil) can also be used to break a fever in patients over 6 months of age. Discuss the best dose with a doctor. For adults, generally 400 mg to 600 mg (two to three 200 mg tablets) can be used every six hours as fever reducers.
+             \n\n2.Aspirin should not be used for fever in children or adolescents. Aspirin use in children and adolescents during a viral illness (especially and , or ) has been associated with Reyes syndrome. Reyes syndrome is a dangerous illness that causes prolonged vomiting, confusion, and even and failure.
+
+
+
+        </item>
+        <item>
+
+        1.There is a vaccine for TB disease called  (BCG). It is used in some countries to prevent severe forms of TB in children. However, BCG is not generally recommended in the United States because it has limited effectiveness for preventing TB in adults. The effect of BCG against XDR TB would likely be similar to the effect on drug-susceptible TB.
+        \n\n2.The most important thing is for you to continue taking all your TB medicines exactly as prescribed. No doses should be missed and treatment should not be stopped early. You should tell your health care provider if you are having trouble taking the medications. If you plan to travel, make sure you have enough medicine to last while away.
+
+        </item>
+        <item> Dengue</item>
+        <item> Headache</item>
+        <item> Influenza.</item>
+        <item> Diabetes</item>
+
+
+    </string-array>
+
+
+    <string-array name="breakfast_items">
+        <item>None</item>
+        <item>White Bread</item>
+        <item>Brown Bread</item>
+        <item>Cereals</item>
+        <item>Fruit Salad</item>
+    </string-array>
+
+    <string-array name="breakfast_amount">
+        <item>50gm</item>
+        <item>250gm</item>
+        <item>500gm</item>
+    </string-array>
+
+    <string-array name="lunch_items">
+        <item>None</item>
+        <item>Cooked Rice</item>
+        <item>Fried Rice</item>
+    </string-array>
+
+    <string-array name="lunch_amount">
+        <item>50gm</item>
+        <item>250gm</item>
+        <item>500gm</item>
+    </string-array>
+
+    <string-array name="dinner_items">
+        <item>None</item>
+        <item>Pasta</item>
+        <item>Potato</item>
+        <item>Chicken</item>
+    </string-array>
+
+    <string-array name="dinner_amount">
+        <item>50gm</item>
+        <item>250gm</item>
+        <item>500gm</item>
+    </string-array>
+
+    <string-array name="snacks">
+        <item>None</item>
+        <item>Pack of Potato Crackers</item>
+        <item>Pack of Digestive Biscuits</item>
+    </string-array>
+
+
+</resources>

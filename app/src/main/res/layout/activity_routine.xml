@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#BF3FD8"
+    tools:context=".RoutineActivity">
+
+
+
+
+ <EditText
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="Date:"
+     android:id="@+id/nameEditTexId"
+
+
+
+
+
+
+     />
+
+ <EditText
+     android:id="@+id/ageEditTextId"
+     android:layout_below="@id/nameEditTexId"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="Workout Name:"
+     android:layout_marginTop="10dp"
+
+
+
+
+/>
+
+ <EditText
+
+     android:id="@+id/genderEditTextId"
+     android:layout_width="match_parent"
+     android:layout_height="200dp"
+     android:layout_below="@+id/ageEditTextId"
+     android:layout_marginTop="10dp"
+
+     />
+
+
+ <EditText
+
+     android:id="@+id/idEditTextId"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/genderEditTextId"
+     android:layout_marginTop="10dp"
+     android:hint="Schedule Number To Update/Delete"
+
+     />
+
+
+
+ <Button
+     android:id="@+id/saveButtonId"
+     android:layout_width="190dp"
+     android:layout_height="60dp"
+     android:layout_marginTop="50dp"
+     android:text="Save"
+     android:layout_marginLeft="10dp"
+     android:layout_below="@+id/idEditTextId"
+     android:background="#CDDC39"
+     android:layout_marginRight="10dp"
+
+
+     />
+
+
+ <Button
+     android:id="@+id/showButtonId"
+     android:layout_width="190dp"
+     android:layout_height="60dp"
+     android:layout_marginTop="50dp"
+     android:text="Show"
+     android:layout_below="@+id/idEditTextId"
+     android:layout_toRightOf="@id/saveButtonId"
+     android:background="#45C91D"
+
+
+     />
+
+
+ <Button
+     android:id="@+id/updateButtonId"
+     android:layout_width="190dp"
+     android:layout_height="60dp"
+     android:layout_marginTop="15dp"
+     android:text="Update"
+     android:layout_marginLeft="10dp"
+     android:layout_marginRight="10dp"
+     android:layout_below="@+id/saveButtonId"
+     android:background="#4DC2D1"
+
+
+     />
+
+
+ <Button
+     android:id="@+id/deleteButtonId"
+     android:layout_width="190dp"
+     android:layout_height="60dp"
+     android:layout_marginTop="15dp"
+     android:text="Delete"
+     android:layout_below="@+id/saveButtonId"
+     android:layout_toRightOf="@id/updateButtonId"
+     android:background="#ff22"
+
+
+     />
+
+
+</RelativeLayout>

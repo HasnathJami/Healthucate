@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jishan.progressbar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Healthucate"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThem">
+        <activity android:name=".LoginSignUpActivityForDietPlan"></activity>
+        <activity android:name=".LoginFromDietPlan" />
+        <activity android:name=".Login" />
+        <activity android:name=".LoginSignupActivity" />
+        <activity android:name=".DescriptionActivity" />
+        <activity android:name=".WelcomeSplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomePageActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".HealthTipsActivity"
+            android:label="Health Tips"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ExerciseTipsActivity"
+            android:label="Exercise Tips"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".FoodTipsActivity"
+            android:label="Food Tips"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".MediKitActivity"
+            android:label="Medicine Kits"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CalorieCalculatorActivity"
+            android:label="Calorie Calculator"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".BmiCalculatorActivity"
+            android:label="BMI Calculator"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".RoutineActivity"
+            android:label="Workout Plan"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="Diet Plan"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>
