@@ -10,7 +10,9 @@ Healthucate is an android app that is based on health and fitness. The project i
 5. Nearby Hospital and Gym Searching System 
 
 ### Languages: 
-Java, SQLite
+Java
+### Databases:
+SQLite
 ### Tools and Technologies: 
 Android Studio
 
