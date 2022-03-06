@@ -8,3 +8,6 @@ Healthucate is an android app that is based on health and fitness.It has many fe
 3. BMI Calculator
 4. To-Do List System
 5. Nearby Hospital and Gym Searching System 
+
+### Languages: Java, SQLite
+### Tools and Technologies: Android Studio
