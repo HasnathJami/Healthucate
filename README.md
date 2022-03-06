@@ -16,6 +16,14 @@ Android Studio
 
 
 ## Screenshots:
-
+<img src="./Screenshots/Screenshot_20220306-123142.png" width="300" height="500" title="Welcome Screen" />
 
 ## Topics:
+1.Splash Screen with Threading  
+2. CardView 
+3. ListView  
+4. Adapter  
+5. Sqlite Database  
+6. UI Components
+7. Navigation Components
+
