@@ -26,7 +26,7 @@ Android Studio
  <img src="./Screenshots/13.png" width="300" height="500" title="" /> <img src="./Screenshots/14.png" width="300" height="500" title="" />
 
 ### User Panel
-<img src="./Screenshots/2.png" width="300" height="500" title="" /> <img src="./Screenshots/3.png" width="300" height="500" title="" />
+<img src="./Screenshots/4.png" width="300" height="500" title="" /><img src="./Screenshots/2.png" width="300" height="500" title="" /> <img src="./Screenshots/3.png" width="300" height="500" title="" />
 
 ### Exercise Tips
 <img src="./Screenshots/5.png" width="300" height="500" title="" /> <img src="./Screenshots/6.png" width="300" height="500" title="" />
