@@ -28,6 +28,11 @@ Android Studio
 ### User Panel
 <img src="./Screenshots/2.png" width="300" height="500" title="" /> <img src="./Screenshots/3.png" width="300" height="500" title="" />
 
+### Exercise Tips
+<img src="./Screenshots/5.png" width="300" height="500" title="" /> <img src="./Screenshots/6.png" width="300" height="500" title="" />
+
+
+
 ### Food Tips
 <img src="./Screenshots/7.png" width="300" height="500" title="" /> <img src="./Screenshots/8.png" width="300" height="500" title="" />
 
