@@ -19,7 +19,7 @@ Android Studio
 
 ## Project Demo:
 
-###Splash Screen
+### Splash Screen
 <img src="./Screenshots/1.png" width="300" height="500" title="Welcome Screen" />   
 
 
