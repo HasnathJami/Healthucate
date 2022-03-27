@@ -42,7 +42,8 @@ Android Studio
 ### Calorie and BMI Calculator
 <img src="./Screenshots/11.png" width="300" height="500" title="" /> <img src="./Screenshots/12.png" width="300" height="500" title="" />
 
-
+### Diet Plan
+<img src="./Screenshots/15.png" width="300" height="500" title="" />
 
 
 
