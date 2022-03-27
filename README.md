@@ -46,15 +46,6 @@ Android Studio
 <img src="./Screenshots/15.png" width="300" height="500" title="" />
 
 
-
-
-<img src="./Screenshots/3.png" width="300" height="500" title="Welcome Screen" />   <img src="./Screenshots/4.png" width="300" height="500" title="Welcome Screen" />
-<img src="./Screenshots/5.png" width="300" height="500" title="Welcome Screen" />   <img src="./Screenshots/6.png" width="300" height="500" title="Welcome Screen" />
-<img src="./Screenshots/7.png" width="300" height="500" title="Welcome Screen" />   <img src="./Screenshots/8.png" width="300" height="500" title="Welcome Screen" />
-<img src="./Screenshots/9.png" width="300" height="500" title="Welcome Screen" />   <img src="./Screenshots/10.png" width="300" height="500" title="Welcome Screen" />
-<img src="./Screenshots/11.png" width="300" height="500" title="Welcome Screen" />     <img src="./Screenshots/14.png" width="300" height="500" title="Welcome Screen" />
-<img src="./Screenshots/15.png" width="300" height="500" title="Welcome Screen" />
-
 ## Topics:
 1.Splash Screen with Threading    
 2. CardView   
